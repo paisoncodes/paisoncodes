@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="35%" height="auto" src="https://res.cloudinary.com/dsnxxuvgh/image/upload/v1747351902/Github_profile_pporvn.jpg" alt="Profile Image" />
+  <img width="35%" height="auto" src="https://res.cloudinary.com/dsnxxuvgh/image/upload/v1747352441/Github_profile_dgqcvt.png" alt="Profile Image" />
 </p>
 
 <h1 align="center">Hi there 👋🏽, I'm Olatunji Komolafe</h1>
